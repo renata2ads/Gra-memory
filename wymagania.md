@@ -24,6 +24,7 @@
 - Kolejność: mniej ruchów, przy remisie krótszy czas.
 
 ## Interfejs
+- Tytuł gry: „Neon Memory” – widoczny na ekranie startowym i w tytule karty przeglądarki.
 - Ekran startowy: przycisk „Graj” i ranking.
 - Ekran gry: plansza, licznik ruchów, stoper.
 - Ekran końca gry: wynik i gratulacje.
